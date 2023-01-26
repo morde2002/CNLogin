@@ -1,2 +1,0 @@
-# CNLogin
-CongoNets login form
